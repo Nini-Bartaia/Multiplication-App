@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(229, 160, 238);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    overflow: hidden;
+    
+
+}
+
+.form{
+    
+    width: 80vh;
+    height: 50vh;
+    font-size: 25px;
+    
+    
+}
+
+span{
+    float: right;
+    margin-right: 20px;
+    color: rgb(58, 58, 240);
+    margin-top: -50px;
+
+    
+}
+p{
+    margin-left: 100px;
+    margin-top: 100px;
+    color: rgb(58, 58, 240);
+}
+input{
+    
+    font-size: 25px;
+    margin-left: 100px;
+    display: block;
+    border: 3px solid black;
+    text-align: center;
+    border-radius: 8px ;
+   
+    
+}
+button{
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 27px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: monospace;
+}
